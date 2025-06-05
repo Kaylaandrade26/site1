@@ -1,0 +1,25 @@
+.barra{
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    color:white;
+}
+img{
+    height: 160px;
+    width: 200px;
+    border: 6px solid blueviolet;
+    border-radius: 20px;
+}
+.creditos{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    width: 100%;
+    background-color: blueviolet;
+    color: white;
+}
